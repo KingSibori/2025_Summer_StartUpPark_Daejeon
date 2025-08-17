@@ -1,0 +1,23 @@
+# 환경변수 파일
+.env
+*.env
+
+# API 키 파일
+api-key
+api-key.txt
+secret.txt
+
+# 인증서
+*.pem
+*.crt
+*.key
+
+# 빌드/캐시
+__pycache__/
+node_modules/
+dist/
+build/
+
+# IDE/에디터 설정
+.vscode/
+.idea/
